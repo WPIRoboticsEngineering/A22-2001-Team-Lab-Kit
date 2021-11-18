@@ -16,6 +16,6 @@
   
   1 x relay
   
-  2 x IR remote
-  
-  2 x IR controller
+  2 x IR receiver: https://www.pololu.com/product/2471 
+
+  2 x IR remote: https://www.pololu.com/product/2777
