@@ -8,7 +8,7 @@
   
   1 x linear potentiometer
   
-  1 x cont rot servo
+  1 x cont rot servo https://www.adafruit.com/product/2442
   
   1 x diode
   
