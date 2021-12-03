@@ -1,10 +1,10 @@
 # C22-Team-Lab-Kit
 
-  ? x links
+  ? x links *custom
   
-  1 x linkage box
+  1 x linkage box *custom
   
-  1 x linear slide
+  1 x linear slide https://www.amazon.com/dp/B09MYWL434/
   
   1 x linear potentiometer https://www.digikey.com/en/products/detail/bourns-inc/PTA6043-2015DPB103/  *needs verification
   
