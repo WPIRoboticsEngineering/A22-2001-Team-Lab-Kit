@@ -6,7 +6,7 @@
   
   1 x linear slide
   
-  1 x linear potentiometer https://www.digikey.com/en/products/detail/bourns-inc/PTA4543-2010CIB103/3781197  *needs verification
+  1 x linear potentiometer https://www.digikey.com/en/products/detail/bourns-inc/PTA6043-2015DPB103/  *needs verification
   
   1 x cont rot servo https://www.adafruit.com/product/2442
   
