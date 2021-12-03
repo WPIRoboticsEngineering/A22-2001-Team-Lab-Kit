@@ -12,7 +12,7 @@
   
   1 x diode
   
-  1 x transistor
+  1 x transistor https://www.digikey.com/en/products/detail/onsemi/MPSA42/32397
   
   1 x relay
   
